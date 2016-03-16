@@ -1,0 +1,19 @@
+{
+  "name": "buffer-safe",
+  "version": "1.0.0",
+  "description": "A polyfill for the new Node.js Buffer constructor APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test-buffer-alloc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasnell/buffer-safe.git"
+  },
+  "author": "James M Snell <jasnell@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasnell/buffer-safe/issues"
+  },
+  "homepage": "https://github.com/jasnell/buffer-safe#readme"
+}
